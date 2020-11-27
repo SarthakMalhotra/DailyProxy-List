@@ -2,7 +2,7 @@
 Get Free Proxy List that gets updated Daily !
 This List Gets New Working Proxy every 24 hours
 
-## How To Download ( Run These COmmands On Cmd/Terminal )
+## How To Download ( Run These Commands On Cmd/Terminal )
 
 ### For Socks5
 ```curl -# https://raw.githubusercontent.com/SarthakMalhotra/DailyProxy-List/main/Socks5.txt -o socks5.txt ```
